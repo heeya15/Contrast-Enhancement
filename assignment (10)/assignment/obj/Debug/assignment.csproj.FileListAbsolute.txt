@@ -1,0 +1,22 @@
+C:\Users\430Server\Desktop\천지연\ImageProcessing\assignment\assignment\bin\Debug\assignment.exe.config
+C:\Users\430Server\Desktop\천지연\ImageProcessing\assignment\assignment\bin\Debug\assignment.exe
+C:\Users\430Server\Desktop\천지연\ImageProcessing\assignment\assignment\bin\Debug\assignment.pdb
+C:\Users\430Server\Desktop\천지연\ImageProcessing\assignment\assignment\obj\Debug\assignment.csprojAssemblyReference.cache
+C:\Users\430Server\Desktop\천지연\ImageProcessing\assignment\assignment\obj\Debug\assignment.Form1.resources
+C:\Users\430Server\Desktop\천지연\ImageProcessing\assignment\assignment\obj\Debug\assignment.Properties.Resources.resources
+C:\Users\430Server\Desktop\천지연\ImageProcessing\assignment\assignment\obj\Debug\assignment.csproj.GenerateResource.cache
+C:\Users\430Server\Desktop\천지연\ImageProcessing\assignment\assignment\obj\Debug\assignment.csproj.CoreCompileInputs.cache
+C:\Users\430Server\Desktop\천지연\ImageProcessing\assignment\assignment\obj\Debug\assignment.exe
+C:\Users\430Server\Desktop\천지연\ImageProcessing\assignment\assignment\obj\Debug\assignment.pdb
+C:\Users\430Server\Desktop\천지연\ImageProcessing\assignment\assignment\obj\Debug\assignment.Form2.resources
+C:\Users\choon\OneDrive\Desktop\영상처리 기말턴과제\assignment (10)\assignment\bin\Debug\assignment.exe.config
+C:\Users\choon\OneDrive\Desktop\영상처리 기말턴과제\assignment (10)\assignment\bin\Debug\assignment.exe
+C:\Users\choon\OneDrive\Desktop\영상처리 기말턴과제\assignment (10)\assignment\bin\Debug\assignment.pdb
+C:\Users\choon\OneDrive\Desktop\영상처리 기말턴과제\assignment (10)\assignment\obj\Debug\assignment.csprojAssemblyReference.cache
+C:\Users\choon\OneDrive\Desktop\영상처리 기말턴과제\assignment (10)\assignment\obj\Debug\assignment.Form1.resources
+C:\Users\choon\OneDrive\Desktop\영상처리 기말턴과제\assignment (10)\assignment\obj\Debug\assignment.Form2.resources
+C:\Users\choon\OneDrive\Desktop\영상처리 기말턴과제\assignment (10)\assignment\obj\Debug\assignment.Properties.Resources.resources
+C:\Users\choon\OneDrive\Desktop\영상처리 기말턴과제\assignment (10)\assignment\obj\Debug\assignment.csproj.GenerateResource.cache
+C:\Users\choon\OneDrive\Desktop\영상처리 기말턴과제\assignment (10)\assignment\obj\Debug\assignment.csproj.CoreCompileInputs.cache
+C:\Users\choon\OneDrive\Desktop\영상처리 기말턴과제\assignment (10)\assignment\obj\Debug\assignment.exe
+C:\Users\choon\OneDrive\Desktop\영상처리 기말턴과제\assignment (10)\assignment\obj\Debug\assignment.pdb
